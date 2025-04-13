@@ -1,0 +1,14 @@
+{
+  "token": "YOUR_BOT_TOKEN",
+  "guildId": "YOUR_GUILD_ID",
+  "roleId": "ROLE_ID",
+  "prefix": ".",
+  "logChannelId": "LOG_CHANNEL_ID",
+  "targetUrls": [
+    ".gg/bed0c",
+    "gg/bed0c",
+    "/bed0c",
+    "discord.gg/bed0c",
+    "@bed0c"
+  ]
+}
